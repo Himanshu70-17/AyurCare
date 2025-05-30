@@ -63,9 +63,13 @@
 ![Screenshot (85)](https://github.com/user-attachments/assets/ddcc44f5-3b81-42e8-a2a4-2bde98b7ad33)
 ![Screenshot (86)](https://github.com/user-attachments/assets/1128466e-d0cb-4c18-b49b-9b9939cfabfd)
 
+---
+
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 
 ## 🙌 Acknowledgements
@@ -75,9 +79,11 @@ Vite
 MongoDB
 AWS
 
+---
+
 
 ## 📬 Contact
 For feedback or collaboration:
-📧 Email: himanshu9917066767@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/himanshu-negi-59b6372a9/
+- 📧 Email: himanshu9917066767@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/himanshu-negi-59b6372a9/
 
