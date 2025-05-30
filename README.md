@@ -64,11 +64,11 @@
 ![Screenshot (86)](https://github.com/user-attachments/assets/1128466e-d0cb-4c18-b49b-9b9939cfabfd)
 
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 React
 Tailwind CSS
 Vite
@@ -76,7 +76,7 @@ MongoDB
 AWS
 
 
-##📬 Contact
+## 📬 Contact
 For feedback or collaboration:
 📧 Email: himanshu9917066767@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/himanshu-negi-59b6372a9/
